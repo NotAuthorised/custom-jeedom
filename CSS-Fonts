@@ -1,0 +1,5 @@
+/**polices**/
+@font-face {font-family: "Montserrat";src: url('fonts/montserrat.ttf');}
+@font-face {font-family: "MontserratBold";src: url('fonts/montserrat-bold.ttf');}
+@font-face {font-family: "MontserratLight";src: url('fonts/montserrat-light.ttf');}
+@font-face {font-family: "MontserratHairline";src: url('fonts/montserrat-hairline.ttf');}
