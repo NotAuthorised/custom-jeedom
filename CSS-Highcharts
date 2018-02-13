@@ -1,0 +1,15 @@
+/** historique **/
+/** fond créme**/
+.highcharts-plot-band  {fill: #505152;}
+
+/** barre horizontal **/
+.highcharts-grid-line {opacity: 0.0;}
+
+/** tracé orange **/
+.highcharts-legend-item, .highcharts-area-series, .highcharts-series-0
+{stroke: #ffffff!important;}
+.highcharts-legend {stroke-width:0;}
+
+/** petite barre légende **/
+.highcharts-graph {stroke: #ff9900!important;} 
+
