@@ -1,4 +1,4 @@
-# personnalisation-jeedom
+# custom-jeedom
 
 Ceci n'est pas un plugin mais rentre parfaitement dans l'idée de rendre meilleur Jeedom via sa personnalisation apportée par la communautée.
 
